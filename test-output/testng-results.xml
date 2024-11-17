@@ -5,6 +5,7 @@
       <![CDATA[Test is Successful]]>
     </line>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2024-11-17T17:12:59 IST" name="Default suite" finished-at="2024-11-17T17:13:13 IST" duration-ms="13901">
     <groups>
     </groups>
@@ -15,13 +16,29 @@
           </reporter-output>
         </test-method> <!-- setUp -->
         <test-method signature="getWindowHandles()[pri:0, instance:com.XrayJira.Tests.PracticeWindowHandlesTest@4b013c76]" started-at="2024-11-17T17:13:05 IST" name="getWindowHandles" finished-at="2024-11-17T17:13:13 IST" duration-ms="7999" status="PASS">
+=======
+  <suite started-at="2024-11-16T12:30:04 IST" name="Default suite" finished-at="2024-11-16T12:30:17 IST" duration-ms="13371">
+    <groups>
+    </groups>
+    <test started-at="2024-11-16T12:30:04 IST" name="Default test" finished-at="2024-11-16T12:30:17 IST" duration-ms="13371">
+      <class name="seleniumPractice.PracticeWindowHandles">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:seleniumPractice.PracticeWindowHandles@72035809]" started-at="2024-11-16T12:30:04 IST" name="setUp" finished-at="2024-11-16T12:30:11 IST" duration-ms="6943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getWindowHandles()[pri:0, instance:seleniumPractice.PracticeWindowHandles@72035809]" started-at="2024-11-16T12:30:11 IST" name="getWindowHandles" finished-at="2024-11-16T12:30:17 IST" duration-ms="6390" status="PASS">
+>>>>>>> 20f3647d8a853dcc712be292967e031e7a0e3e71
           <reporter-output>
             <line>
               <![CDATA[Test is Successful]]>
             </line>
           </reporter-output>
         </test-method> <!-- getWindowHandles -->
+<<<<<<< HEAD
       </class> <!-- com.XrayJira.Tests.PracticeWindowHandlesTest -->
+=======
+      </class> <!-- seleniumPractice.PracticeWindowHandles -->
+>>>>>>> 20f3647d8a853dcc712be292967e031e7a0e3e71
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,4 +1,8 @@
 activeProfiles=
 eclipse.preferences.version=1
+<<<<<<< HEAD
 resolveWorkspaceProjects=false
+=======
+resolveWorkspaceProjects=true
+>>>>>>> 20f3647d8a853dcc712be292967e031e7a0e3e71
 version=1
