@@ -5,16 +5,16 @@
       <![CDATA[Test is Successful]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-11-17T17:31:18 IST" name="com.XrayJira.Tests" finished-at="2024-11-17T17:31:33 IST" duration-ms="15455">
+  <suite started-at="2024-11-17T21:47:25 IST" name="com.XrayJira.Tests" finished-at="2024-11-17T21:47:37 IST" duration-ms="12488">
     <groups>
     </groups>
-    <test started-at="2024-11-17T17:31:18 IST" name="MyTest" finished-at="2024-11-17T17:31:33 IST" duration-ms="15455">
+    <test started-at="2024-11-17T21:47:25 IST" name="MyTest" finished-at="2024-11-17T21:47:37 IST" duration-ms="12488">
       <class name="com.XrayJira.Tests.PracticeWindowHandlesTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.XrayJira.Tests.PracticeWindowHandlesTest@21e360a]" started-at="2024-11-17T17:31:18 IST" name="setUp" finished-at="2024-11-17T17:31:24 IST" duration-ms="6617" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.XrayJira.Tests.PracticeWindowHandlesTest@21e360a]" started-at="2024-11-17T21:47:25 IST" name="setUp" finished-at="2024-11-17T21:47:32 IST" duration-ms="6954" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="getWindowHandles()[pri:0, instance:com.XrayJira.Tests.PracticeWindowHandlesTest@21e360a]" started-at="2024-11-17T17:31:24 IST" name="getWindowHandles" finished-at="2024-11-17T17:31:33 IST" duration-ms="8812" status="PASS">
+        <test-method signature="getWindowHandles()[pri:0, instance:com.XrayJira.Tests.PracticeWindowHandlesTest@21e360a]" started-at="2024-11-17T21:47:32 IST" name="getWindowHandles" finished-at="2024-11-17T21:47:37 IST" duration-ms="5507" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test is Successful]]>
